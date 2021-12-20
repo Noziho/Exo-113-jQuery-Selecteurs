@@ -1,1 +1,1 @@
-$("selecteur").hide();
+$("tr").even().hide();
